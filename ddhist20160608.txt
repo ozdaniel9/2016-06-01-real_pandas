@@ -1,0 +1,19 @@
+    1  git cloneh ttps://github.com/ozdaniel9/2016-06-01-real_pandas.git
+    2  git clone  https://github.com/ozdaniel9/2016-06-01-real_pandas.git
+    3  ls
+    4  cd 2016-06-01-real_pandas/
+    5  ls
+    6  cd ..
+    7  ls
+    8  mv Untitled.ipynb 2016-06-01-real_pandas/
+    9  ls
+   10  cd 2016-06-01-real_pandas/
+   11  ls
+   12  mv Untitled.ipynb course.ipynb
+   13  ls
+   14  git status
+   15  ls -al
+   16  git add course.ipynb
+   17  ls
+   18  ls -a
+   19  history > ddhist20160608.txt
